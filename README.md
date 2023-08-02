@@ -1,7 +1,7 @@
-# FullStack Social Media App
+Social Media Application | Project | Source Code
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+Created a dynamic social media web application using MERN stack. Utilized React.js for building an interactive front-end that allowed users to createaccounts, post updates, and engage through comments and likes.
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+Secured Authentication and Authorization: Ensured data security by integrating bcrypt module for encrypted password authentication. Implemented JWTtokens for authorization, controlling user access to specific functionalities.
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Implemented MVC Architecture for Readability.
