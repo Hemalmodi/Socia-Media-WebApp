@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Socia-Media-WebApp/static/css/main.b62ea404.css",
+    "main.js": "/Socia-Media-WebApp/static/js/main.15fdca0c.js",
+    "index.html": "/Socia-Media-WebApp/index.html",
+    "main.b62ea404.css.map": "/Socia-Media-WebApp/static/css/main.b62ea404.css.map",
+    "main.15fdca0c.js.map": "/Socia-Media-WebApp/static/js/main.15fdca0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.15fdca0c.js"
+  ]
+}
